@@ -1,5 +1,16 @@
 ### Hello, I'm taeyoon Lee!! 👋
 
+joined Github **4 months ago**
+
+```python
+taeyoon = {
+'code' : ['python','C','Dart','Swift'],
+'tools' : ['Flutter','Xcode','VScode','Dev C++','IDLE','Colab'],
+}
+```
+
+Colab link : [Click Here!](https://colab.research.google.com/drive/13ty2bU3i6f8KsbRrlfpVKyxwyjQqVpfz)
+
 <!--
 **taeyoonL/taeyoonL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
