@@ -1,4 +1,4 @@
-### Hello, I'm taeyoon Lee!! 👋
+## Hello, I'm taeyoon Lee!! 👋
 
 joined Github **4 months ago**
 
