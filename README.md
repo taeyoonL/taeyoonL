@@ -6,12 +6,12 @@ About Me...
 ---
 ```python
 taeyoon = {
-'code' : ['python','C','Dart','Swift'],
-'tools' : ['Flutter','Xcode','VScode','Dev C++','IDLE','Colab'],
+'code' : ['Python','C','Dart','Swift'],
+'tools' : ['Flutter','Xcode','VScode','Dev C++','IDLE','Colab','Git'],
 }
 ```
 
-Colab link : [Click Here!](https://colab.research.google.com/drive/13ty2bU3i6f8KsbRrlfpVKyxwyjQqVpfz)
+If you want to go to my Colab, [Click Here!](https://colab.research.google.com/drive/12OUvbU1HK1DTCFqR46cPl2v20ZY2E1A4#scrollTo=5dx0ldRI-Ave)
 
 <!--
 **taeyoonL/taeyoonL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
