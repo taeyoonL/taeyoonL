@@ -1,7 +1,9 @@
 ## Hello, I'm taeyoon Lee!! 👋
 
-joined Github **4 months ago**
+***College of Media, Art & Science*** in [Sogang University](https://sogang.ac.kr/index.do)
 
+About Me...
+---
 ```python
 taeyoon = {
 'code' : ['python','C','Dart','Swift'],
