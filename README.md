@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taeyoon-Lee</h1>
-<h3 align="center">Student of <a href = https://sogang.ac.kr/index.do>Sogang University</a> CMAS(College of Media, Art & Science)</h3>
+<h3 align="center">Student of <a href = https://sogang.ac.kr/index.do>Sogang University</a> ArTech (Art & Technology)</h3>
 
 - 🔭 I’m currently working on [Sudden trip](https://github.com/taeyoonL/Project_Sudden_trip)
 
